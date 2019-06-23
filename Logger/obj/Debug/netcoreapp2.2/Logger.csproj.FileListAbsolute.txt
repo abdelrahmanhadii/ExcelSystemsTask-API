@@ -1,0 +1,9 @@
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Logger\bin\Debug\netcoreapp2.2\Logger.deps.json
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Logger\bin\Debug\netcoreapp2.2\Logger.dll
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Logger\obj\Debug\netcoreapp2.2\Logger.csprojAssemblyReference.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Logger\obj\Debug\netcoreapp2.2\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Logger\obj\Debug\netcoreapp2.2\Logger.AssemblyInfoInputs.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Logger\obj\Debug\netcoreapp2.2\Logger.AssemblyInfo.cs
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Logger\bin\Debug\netcoreapp2.2\Logger.pdb
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Logger\obj\Debug\netcoreapp2.2\Logger.dll
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Logger\obj\Debug\netcoreapp2.2\Logger.pdb

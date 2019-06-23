@@ -1,0 +1,9 @@
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\DTOs\bin\Debug\netcoreapp2.2\DTOs.deps.json
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\DTOs\bin\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\DTOs\bin\Debug\netcoreapp2.2\DTOs.pdb
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\DTOs\obj\Debug\netcoreapp2.2\DTOs.csprojAssemblyReference.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\DTOs\obj\Debug\netcoreapp2.2\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\DTOs\obj\Debug\netcoreapp2.2\DTOs.AssemblyInfoInputs.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\DTOs\obj\Debug\netcoreapp2.2\DTOs.AssemblyInfo.cs
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\DTOs\obj\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\DTOs\obj\Debug\netcoreapp2.2\DTOs.pdb

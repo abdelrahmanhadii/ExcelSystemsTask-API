@@ -1,0 +1,15 @@
+2019-06-22 01:08:22.5074 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at BL.Services.UserService.Login(LoginDTO loginDTO) in C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\BL\Services\UserService.cs:line 25
+   at API.Controllers.UsersController.Login(LoginDTO loginDTO) in C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\API\Controllers\UsersController.cs:line 30
+2019-06-22 01:10:04.6578 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at BL.Services.UserService.Login(LoginDTO loginDTO) in C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\BL\Services\UserService.cs:line 25
+   at API.Controllers.UsersController.Login(LoginDTO loginDTO) in C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\API\Controllers\UsersController.cs:line 30
+2019-06-22 01:22:20.2556 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at BL.Services.UserService.Login(LoginDTO loginDTO) in C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\BL\Services\UserService.cs:line 25
+   at API.Controllers.UsersController.Login(LoginDTO loginDTO) in C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\API\Controllers\UsersController.cs:line 30
+2019-06-22 01:22:25.8496 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at BL.Services.UserService.Login(LoginDTO loginDTO) in C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\BL\Services\UserService.cs:line 25
+   at API.Controllers.UsersController.Login(LoginDTO loginDTO) in C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\API\Controllers\UsersController.cs:line 30
+2019-06-22 01:53:47.1142 ERROR System.NullReferenceException: Object reference not set to an instance of an object.
+   at BL.Services.UserService.Login(LoginDTO loginDTO) in C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\BL\Services\UserService.cs:line 25
+   at API.Controllers.UsersController.Login(LoginDTO loginDTO) in C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\API\Controllers\UsersController.cs:line 30

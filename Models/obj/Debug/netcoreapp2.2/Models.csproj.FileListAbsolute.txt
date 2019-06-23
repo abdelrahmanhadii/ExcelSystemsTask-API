@@ -1,0 +1,9 @@
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Models\bin\Debug\netcoreapp2.2\Models.deps.json
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Models\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Models\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Models\obj\Debug\netcoreapp2.2\Models.csprojAssemblyReference.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Models\obj\Debug\netcoreapp2.2\Models.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfoInputs.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Models\obj\Debug\netcoreapp2.2\Models.AssemblyInfo.cs
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Models\obj\Debug\netcoreapp2.2\Models.dll
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Models\obj\Debug\netcoreapp2.2\Models.pdb

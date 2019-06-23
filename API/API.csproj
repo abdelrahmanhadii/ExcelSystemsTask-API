@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="3.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+    <PackageReference Include="NLog.Extensions.Logging" Version="1.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BL">
+      <HintPath>..\BL\bin\Debug\netcoreapp2.2\BL.dll</HintPath>
+    </Reference>
+    <Reference Include="DAL">
+      <HintPath>..\DAL\bin\Debug\netcoreapp2.2\DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="DTOs">
+      <HintPath>..\DTOs\bin\Debug\netcoreapp2.2\DTOs.dll</HintPath>
+    </Reference>
+    <Reference Include="Logger">
+      <HintPath>..\Logger\bin\Debug\netcoreapp2.2\Logger.dll</HintPath>
+    </Reference>
+    <Reference Include="Mappers">
+      <HintPath>..\Mappers\bin\Debug\netcoreapp2.2\Mappers.dll</HintPath>
+    </Reference>
+    <Reference Include="Models">
+      <HintPath>..\Models\bin\Debug\netcoreapp2.2\Models.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

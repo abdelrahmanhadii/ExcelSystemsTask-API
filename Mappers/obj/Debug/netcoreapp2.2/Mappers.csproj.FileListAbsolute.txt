@@ -1,0 +1,14 @@
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\bin\Debug\netcoreapp2.2\Mappers.deps.json
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\bin\Debug\netcoreapp2.2\Mappers.dll
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\bin\Debug\netcoreapp2.2\Mappers.pdb
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\bin\Debug\netcoreapp2.2\DTOs.dll
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\bin\Debug\netcoreapp2.2\Models.dll
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\bin\Debug\netcoreapp2.2\DTOs.pdb
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\obj\Debug\netcoreapp2.2\Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\obj\Debug\netcoreapp2.2\Mappers.AssemblyInfoInputs.cache
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\obj\Debug\netcoreapp2.2\Mappers.AssemblyInfo.cs
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\obj\Debug\netcoreapp2.2\Mappers.csproj.CopyComplete
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\obj\Debug\netcoreapp2.2\Mappers.dll
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\obj\Debug\netcoreapp2.2\Mappers.pdb
+C:\Users\Abdelrahman\source\repos\ExcelSystemsTak\Mappers\obj\Debug\netcoreapp2.2\Mappers.csprojAssemblyReference.cache
